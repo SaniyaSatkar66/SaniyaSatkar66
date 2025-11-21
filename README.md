@@ -6,7 +6,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ---
 
 ## 🧠 About Me  
-- 💡 Interested in Data, Cloud, and UI/UX Design  
+- 💡 Interested in Data Analysis, Cloud  
 - 📚 Constantly learning and building new projects  
 - 🎯 Focused on personal growth and skill development  
 
@@ -21,46 +21,69 @@ I’m passionate about technology, data, design, and solving real-world problems
 
 ### **Tools & Technologies**
 - HTML, CSS  
+- Power BI, Tableau  
 - MySQL  
-- Power BI  
-- Tableau  
 - AWS  
 
 ### **Design**
-- Figma  
+- Figma, Canva  
 - UI/UX  
-- Canva  
 
 ### **Relevant Courses**
 - Computer Networking  
 - Data Analysis & Visualization  
 - Cloud Computing  
+- OOPs  
 
 ---
 
 ## 📊 GitHub Stats  
-![Saniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniyaSatkar66&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SaniyaSatkar66&theme=transparent)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SaniyaSatkar66&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6A1B9A&text_color=CFCFCF&icon_color=F4511E&ring_color=D81B60" 
+    height="150"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=SaniyaSatkar66&hide_border=true&background=0D1117&ring=6A1B9A&fire=F4511E&currStreakNum=CFCFCF&sideNums=CFCFCF&currStreakLabel=D81B60&sideLabels=D81B60" 
+    height="150"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaSatkar66&layout=compact&theme=transparent)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaSatkar66&layout=compact&hide_border=true&bg_color=0D1117&title_color=6A1B9A&text_color=CFCFCF" 
+    height="150"
+  />
+</p>
 
 ---
 
 ## 📈 Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaniyaSatkar66&theme=minimal)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaSatkar66&bg_color=0D1117&color=CFCFCF&line=6A1B9A&point=F4511E&area=true&hide_border=true" 
+  />
+</p>
 
 ---
 
 ## ✨ Fun Section  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=24&lines=Hi+I'm+Saniya+Satkar;Data+%7C+Cloud+%7C+Design+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A1B9A&size=24&center=true&vCenter=true&lines=Cloud+%26+Data+Analytics+Enthusiast;AWS+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</p>
 
 ---
 
 ## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saniya-satkar-ab1615340)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saniya-satkar-ab1615340">
+    <img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 📧 Email:  
 - **saniyasatkar@gmail.com**  
 - **saniyasatkar66@gmail.com**
-
