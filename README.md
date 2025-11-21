@@ -41,18 +41,18 @@ I’m passionate about technology, data, design, and solving real-world problems
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaniyaSatkar66&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6A1B9A&text_color=CFCFCF&icon_color=F4511E&ring_color=D81B60" 
+    src="https://github-readme-stats.vercel.app/api?username=SaniyaSatkar66&show_icons=true&hide_border=true&bg_color=0B1A0F&title_color=00C853&text_color=E8F5E9&icon_color=AEEA00&ring_color=00C853" 
     height="150"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=SaniyaSatkar66&hide_border=true&background=0D1117&ring=6A1B9A&fire=F4511E&currStreakNum=CFCFCF&sideNums=CFCFCF&currStreakLabel=D81B60&sideLabels=D81B60" 
+    src="https://streak-stats.demolab.com?user=SaniyaSatkar66&hide_border=true&background=0B1A0F&ring=00C853&fire=AEEA00&currStreakNum=E8F5E9&sideNums=E8F5E9&currStreakLabel=00C853&sideLabels=AEEA00" 
     height="150"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaSatkar66&layout=compact&hide_border=true&bg_color=0D1117&title_color=6A1B9A&text_color=CFCFCF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaSatkar66&layout=compact&hide_border=true&bg_color=0B1A0F&title_color=00C853&text_color=E8F5E9" 
     height="150"
   />
 </p>
@@ -62,7 +62,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ## 📈 Activity Graph  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaSatkar66&bg_color=0D1117&color=CFCFCF&line=6A1B9A&point=F4511E&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaSatkar66&bg_color=0B1A0F&color=E8F5E9&line=00C853&point=AEEA00&area=true&hide_border=true" 
   />
 </p>
 
@@ -71,7 +71,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ## ✨ Fun Section  
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A1B9A&size=24&center=true&vCenter=true&lines=Cloud+%26+Data+Analytics+Enthusiast;AWS+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&size=24&center=true&vCenter=true&lines=Cloud+%26+Data+Analytics+Enthusiast;AWS+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </p>
 
@@ -80,7 +80,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ## 📬 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/saniya-satkar-ab1615340">
-    <img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1A0F?style=for-the-badge&logo=linkedin&logoColor=00C853">
   </a>
 </p>
 
