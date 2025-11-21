@@ -72,7 +72,7 @@
 
 ## ✨ Fun Section  
 <p align="center">
-  
+   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4A90E2&size=24&center=true&vCenter=true&lines=Cloud+%26+Data+Analytics+Enthusiast;AWS+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </p>
