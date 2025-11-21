@@ -1,35 +1,41 @@
-## Hi, I'm Saniya Satkar 👋  
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="/mnt/data/bb8743e5-160a-42c3-a2f1-1fd2ef47d80e.png" alt="Analytics Banner" style="border-radius:10px; width:100%;">
+</p>
 
-I’m passionate about technology, data, design, and solving real-world problems through clean and efficient solutions.
+<h1 align="center" style="color:#4A90E2;">Hi, I'm <strong>Saniya Satkar</strong> 👋</h1>
+
+<p align="center" style="color:#EDEDED;">
+  Technology • Data • Cloud • UI/UX  
+  <br>Creating meaningful and efficient digital solutions.
+</p>
 
 ---
 
 ## 🧠 About Me  
-- 💡 Interested in Data Analysis, Cloud  
-- 📚 Constantly learning and building new projects  
-- 🎯 Focused on personal growth and skill development  
+- 💡 Interested in **Data Analysis**, **Cloud**, and **Problem-Solving**  
+- 📚 Continuously learning and building impactful projects  
+- 🎯 Focused on skill growth and clean development  
 
 ---
 
 ## 🛠️ Skills & Technologies  
 
-### **Languages**
+### <span style="color:#4A90E2;">Languages</span>
 - Python  
 - C++  
 - SQL  
 
-### **Tools & Technologies**
+### <span style="color:#4A90E2;">Tools & Technologies</span>
 - HTML, CSS  
 - Power BI, Tableau  
 - MySQL  
 - AWS  
 
-### **Design**
+### <span style="color:#4A90E2;">Design</span>
 - Figma, Canva  
 - UI/UX  
 
-### **Relevant Courses**
+### <span style="color:#4A90E2;">Relevant Courses</span>
 - Computer Networking  
 - Data Analysis & Visualization  
 - Cloud Computing  
@@ -41,18 +47,18 @@ I’m passionate about technology, data, design, and solving real-world problems
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaniyaSatkar66&show_icons=true&hide_border=true&bg_color=0B1A0F&title_color=00C853&text_color=E8F5E9&icon_color=AEEA00&ring_color=00C853" 
+    src="https://github-readme-stats.vercel.app/api?username=SaniyaSatkar66&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=4A90E2&text_color=EDEDED&icon_color=F5A623&ring_color=7ED321" 
     height="150"
   />
   <img 
-    src="https://streak-stats.demolab.com?user=SaniyaSatkar66&hide_border=true&background=0B1A0F&ring=00C853&fire=AEEA00&currStreakNum=E8F5E9&sideNums=E8F5E9&currStreakLabel=00C853&sideLabels=AEEA00" 
+    src="https://streak-stats.demolab.com?user=SaniyaSatkar66&hide_border=true&background=0A0A0A&ring=4A90E2&fire=F5A623&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=7ED321&sideLabels=D0021B" 
     height="150"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaSatkar66&layout=compact&hide_border=true&bg_color=0B1A0F&title_color=00C853&text_color=E8F5E9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaniyaSatkar66&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=4A90E2&text_color=EDEDED" 
     height="150"
   />
 </p>
@@ -62,7 +68,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ## 📈 Activity Graph  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaSatkar66&bg_color=0B1A0F&color=E8F5E9&line=00C853&point=AEEA00&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaniyaSatkar66&bg_color=0A0A0A&color=4A90E2&line=F5A623&point=7ED321&area=true&hide_border=true" 
   />
 </p>
 
@@ -71,7 +77,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ## ✨ Fun Section  
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C853&size=24&center=true&vCenter=true&lines=Cloud+%26+Data+Analytics+Enthusiast;AWS+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4A90E2&size=24&center=true&vCenter=true&lines=Cloud+%26+Data+Analytics+Enthusiast;AWS+%7C+Python+%7C+Power+BI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 </p>
 
@@ -80,7 +86,7 @@ I’m passionate about technology, data, design, and solving real-world problems
 ## 📬 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/saniya-satkar-ab1615340">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1A0F?style=for-the-badge&logo=linkedin&logoColor=00C853">
+    <img src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
