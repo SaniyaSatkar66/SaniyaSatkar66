@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/mnt/data/bb8743e5-160a-42c3-a2f1-1fd2ef47d80e.png" alt="Analytics Banner" style="border-radius:10px; width:100%;">
-</p>
-
 <h1 align="center" style="color:#4A90E2;">Hi, I'm <strong>Saniya Satkar</strong> 👋</h1>
 
 <p align="center" style="color:#EDEDED;">
