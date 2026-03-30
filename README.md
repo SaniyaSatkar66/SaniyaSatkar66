@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me  
-- 💡 Interested in **Data Analysis**, **Cloud**, and **Problem-Solving**  
+- 💡 Interested in **AI**, **Data Analysis**, **Cloud**, and **Problem-Solving**  
 - 📚 Continuously learning and building impactful projects  
 - 🎯 Focused on skill growth and clean development  
 
@@ -18,14 +18,15 @@
 
 ### <span style="color:#4A90E2;">Languages</span>
 - Python  
-- C++  
+- C++
 - SQL  
 
 ### <span style="color:#4A90E2;">Tools & Technologies</span>
+- AWS
 - HTML, CSS  
 - Power BI, Tableau  
 - MySQL  
-- AWS  
+  
 
 ### <span style="color:#4A90E2;">Design</span>
 - Figma, Canva  
